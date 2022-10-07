@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SpaceFactory">
+    <output-path>$USER_HOME$/Desktop</output-path>
+    <root id="archive" name="SpaceFactory.jar">
+      <element id="module-output" name="SpaceFactory.main" />
+    </root>
+  </artifact>
+</component>
