@@ -1,0 +1,9 @@
+{
+  "item.spacefactory.aluminium_ingot": "Aluminium Ingot",
+  "item.spacefactory.raw_aluminium": "Raw Aluminium",
+
+  "block.spacefactory.aluminium_block": "Block Of Aluminium",
+  "block.spacefactory.aluminium_ore": "Aluminium Ore",
+
+  "itemGroup.spacefactorytab": "SpaceFactory"
+}
